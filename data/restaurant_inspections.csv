@@ -1,0 +1,501 @@
+Name,Date,Info,Value
+E & E Grill House,2017-08-08,Borough,MANHATTAN
+E & E Grill House,2017-08-08,Cuisine,American
+E & E Grill House,2017-08-08,Description,"Non-food contact surface improperly constructed. Unacceptable material used. Non-food contact surface or equipment improperly maintained and/or not properly sealed, raised, spaced or movable to allow accessibility for cleaning on all sides, above and underneath the unit."
+E & E Grill House,2017-08-08,Grade,A
+E & E Grill House,2017-08-08,Score,9.0
+PIZZA WAGON,2017-04-12,Borough,BROOKLYN
+PIZZA WAGON,2017-04-12,Cuisine,Pizza
+PIZZA WAGON,2017-04-12,Description,"Food contact surface not properly washed, rinsed and sanitized after each use and following any activity when contamination may have occurred."
+PIZZA WAGON,2017-04-12,Grade,A
+PIZZA WAGON,2017-04-12,Score,10.0
+NY SWEET SPOT CAFE,2017-03-28,Borough,BROOKLYN
+NY SWEET SPOT CAFE,2017-03-28,Cuisine,Eastern European
+NY SWEET SPOT CAFE,2017-03-28,Description,Plumbing not properly installed or maintained; anti-siphonage or backflow prevention device not provided where required; equipment or floor not properly drained; sewage disposal system in disrepair or not functioning properly.
+NY SWEET SPOT CAFE,2017-03-28,Grade,A
+NY SWEET SPOT CAFE,2017-03-28,Score,7.0
+KATOU FINE RESTAURANT,2017-06-03,Borough,BROOKLYN
+KATOU FINE RESTAURANT,2017-06-03,Cuisine,Creole
+KATOU FINE RESTAURANT,2017-06-03,Description,Plumbing not properly installed or maintained; anti-siphonage or backflow prevention device not provided where required; equipment or floor not properly drained; sewage disposal system in disrepair or not functioning properly.
+KATOU FINE RESTAURANT,2017-06-03,Grade,A
+KATOU FINE RESTAURANT,2017-06-03,Score,12.0
+BRANDY'S PIANO BAR,2017-07-24,Borough,MANHATTAN
+BRANDY'S PIANO BAR,2017-07-24,Cuisine,American
+BRANDY'S PIANO BAR,2017-07-24,Description,"Non-food contact surface improperly constructed. Unacceptable material used. Non-food contact surface or equipment improperly maintained and/or not properly sealed, raised, spaced or movable to allow accessibility for cleaning on all sides, above and underneath the unit."
+BRANDY'S PIANO BAR,2017-07-24,Grade,A
+BRANDY'S PIANO BAR,2017-07-24,Score,9.0
+HOLLAND HOUSE,2017-02-06,Borough,MANHATTAN
+HOLLAND HOUSE,2017-02-06,Cuisine,American
+HOLLAND HOUSE,2017-02-06,Description,Hot food item not held at or above 140Âº F.
+HOLLAND HOUSE,2017-02-06,Grade,A
+HOLLAND HOUSE,2017-02-06,Score,11.0
+BLOSSOM  ON COLUMBUS,2017-01-25,Borough,MANHATTAN
+BLOSSOM  ON COLUMBUS,2017-01-25,Cuisine,American
+BLOSSOM  ON COLUMBUS,2017-01-25,Description,"Food contact surface not properly washed, rinsed and sanitized after each use and following any activity when contamination may have occurred."
+BLOSSOM  ON COLUMBUS,2017-01-25,Grade,A
+BLOSSOM  ON COLUMBUS,2017-01-25,Score,10.0
+ANTOJITOS DELI FOOD,2017-06-01,Borough,BROOKLYN
+ANTOJITOS DELI FOOD,2017-06-01,Cuisine,"Latin (Cuban, Dominican, Puerto Rican, South & Central American)"
+ANTOJITOS DELI FOOD,2017-06-01,Description,Live roaches present in facility's food and/or non-food areas.
+ANTOJITOS DELI FOOD,2017-06-01,Grade,A
+ANTOJITOS DELI FOOD,2017-06-01,Score,10.0
+KING RIVER CHINESE  RESTAURANT,2017-02-15,Borough,QUEENS
+KING RIVER CHINESE  RESTAURANT,2017-02-15,Cuisine,Chinese
+KING RIVER CHINESE  RESTAURANT,2017-02-15,Description,Canned food product observed dented and not segregated from other consumable food items.
+KING RIVER CHINESE  RESTAURANT,2017-02-15,Grade,A
+KING RIVER CHINESE  RESTAURANT,2017-02-15,Score,6.0
+PERIZIA CAFE  and  PIZZA,2017-03-27,Borough,BROOKLYN
+PERIZIA CAFE  and  PIZZA,2017-03-27,Cuisine,Pizza
+PERIZIA CAFE  and  PIZZA,2017-03-27,Description,Evidence of mice or live mice present in facility's food and/or non-food areas.
+PERIZIA CAFE  and  PIZZA,2017-03-27,Grade,Z
+PERIZIA CAFE  and  PIZZA,2017-03-27,Score,5.0
+PROMDI,2017-06-13,Borough,QUEENS
+PROMDI,2017-06-13,Cuisine,Filipino
+PROMDI,2017-06-13,Description,Evidence of mice or live mice present in facility's food and/or non-food areas.
+PROMDI,2017-06-13,Grade,Z
+PROMDI,2017-06-13,Score,9.0
+NU CAFE 47,2017-01-23,Borough,BROOKLYN
+NU CAFE 47,2017-01-23,Cuisine,Jewish/Kosher
+NU CAFE 47,2017-01-23,Description,"Non-food contact surface improperly constructed. Unacceptable material used. Non-food contact surface or equipment improperly maintained and/or not properly sealed, raised, spaced or movable to allow accessibility for cleaning on all sides, above and underneath the unit."
+NU CAFE 47,2017-01-23,Grade,A
+NU CAFE 47,2017-01-23,Score,3.0
+ITALIANA CREMOSA PIZZERIA & RESTAURANT,2017-08-21,Borough,QUEENS
+ITALIANA CREMOSA PIZZERIA & RESTAURANT,2017-08-21,Cuisine,Italian
+ITALIANA CREMOSA PIZZERIA & RESTAURANT,2017-08-21,Description,Hot food item not held at or above 140Âº F.
+ITALIANA CREMOSA PIZZERIA & RESTAURANT,2017-08-21,Grade,A
+ITALIANA CREMOSA PIZZERIA & RESTAURANT,2017-08-21,Score,10.0
+HOLY SCHNITZEL,2017-08-31,Borough,BROOKLYN
+HOLY SCHNITZEL,2017-08-31,Cuisine,Jewish/Kosher
+HOLY SCHNITZEL,2017-08-31,Description,Evidence of mice or live mice present in facility's food and/or non-food areas.
+HOLY SCHNITZEL,2017-08-31,Grade,Z
+HOLY SCHNITZEL,2017-08-31,Score,17.0
+BON APPETIT RESTAURANT,2017-06-27,Borough,QUEENS
+BON APPETIT RESTAURANT,2017-06-27,Cuisine,Creole
+BON APPETIT RESTAURANT,2017-06-27,Description,"Lighting inadequate; permanent lighting not provided in food preparation areas, ware washing areas, and storage rooms."
+BON APPETIT RESTAURANT,2017-06-27,Grade,A
+BON APPETIT RESTAURANT,2017-06-27,Score,10.0
+BASIL,2017-05-03,Borough,BROOKLYN
+BASIL,2017-05-03,Cuisine,Jewish/Kosher
+BASIL,2017-05-03,Description,Cold food item held above 41Âº F (smoked fish and reduced oxygen packaged foods above 38 ÂºF) except during necessary preparation.
+BASIL,2017-05-03,Grade,A
+BASIL,2017-05-03,Score,13.0
+LIBERTADOR,2017-02-28,Borough,MANHATTAN
+LIBERTADOR,2017-02-28,Cuisine,Spanish
+LIBERTADOR,2017-02-28,Description,Accurate thermometer not provided in refrigerated or hot holding equipment.
+LIBERTADOR,2017-02-28,Grade,A
+LIBERTADOR,2017-02-28,Score,12.0
+PICCOLO'S PIZZA,2017-07-11,Borough,BROOKLYN
+PICCOLO'S PIZZA,2017-07-11,Cuisine,Pizza/Italian
+PICCOLO'S PIZZA,2017-07-11,Description,Facility not vermin proof. Harborage or conditions conducive to attracting vermin to the premises and/or allowing vermin to exist.
+PICCOLO'S PIZZA,2017-07-11,Grade,A
+PICCOLO'S PIZZA,2017-07-11,Score,13.0
+VALL'S PIZZERIA,2017-03-15,Borough,STATEN ISLAND
+VALL'S PIZZERIA,2017-03-15,Cuisine,Pizza/Italian
+VALL'S PIZZERIA,2017-03-15,Description,Wiping cloths soiled or not stored in sanitizing solution.
+VALL'S PIZZERIA,2017-03-15,Grade,A
+VALL'S PIZZERIA,2017-03-15,Score,9.0
+ISLAND PRIDE RESTAURANT,2017-03-17,Borough,BROOKLYN
+ISLAND PRIDE RESTAURANT,2017-03-17,Cuisine,Caribbean
+ISLAND PRIDE RESTAURANT,2017-03-17,Description,"Non-food contact surface improperly constructed. Unacceptable material used. Non-food contact surface or equipment improperly maintained and/or not properly sealed, raised, spaced or movable to allow accessibility for cleaning on all sides, above and underneath the unit."
+ISLAND PRIDE RESTAURANT,2017-03-17,Grade,A
+ISLAND PRIDE RESTAURANT,2017-03-17,Score,13.0
+BANGIA,2017-06-16,Borough,MANHATTAN
+BANGIA,2017-06-16,Cuisine,Korean
+BANGIA,2017-06-16,Description,"Covered garbage receptacle not provided or inadequate, except that garbage receptacle may be uncovered during active use. Garbage storage area not properly constructed or maintained; grinder or compactor dirty."
+BANGIA,2017-06-16,Grade,A
+BANGIA,2017-06-16,Score,9.0
+JALISCO TACO'S,2017-05-09,Borough,BRONX
+JALISCO TACO'S,2017-05-09,Cuisine,Tex-Mex
+JALISCO TACO'S,2017-05-09,Description,Food worker does not use proper utensil to eliminate bare hand contact with food that will not receive adequate additional heat treatment.
+JALISCO TACO'S,2017-05-09,Grade,A
+JALISCO TACO'S,2017-05-09,Score,7.0
+GOURMET SPRING RESTAURANT,2017-02-13,Borough,QUEENS
+GOURMET SPRING RESTAURANT,2017-02-13,Cuisine,Chinese
+GOURMET SPRING RESTAURANT,2017-02-13,Description,"Non-food contact surface improperly constructed. Unacceptable material used. Non-food contact surface or equipment improperly maintained and/or not properly sealed, raised, spaced or movable to allow accessibility for cleaning on all sides, above and underneath the unit."
+GOURMET SPRING RESTAURANT,2017-02-13,Grade,A
+GOURMET SPRING RESTAURANT,2017-02-13,Score,12.0
+MUSIC HALL OF WILLIAMSBURG,2017-04-27,Borough,BROOKLYN
+MUSIC HALL OF WILLIAMSBURG,2017-04-27,Cuisine,American
+MUSIC HALL OF WILLIAMSBURG,2017-04-27,Description,"Food contact surface not properly washed, rinsed and sanitized after each use and following any activity when contamination may have occurred."
+MUSIC HALL OF WILLIAMSBURG,2017-04-27,Grade,A
+MUSIC HALL OF WILLIAMSBURG,2017-04-27,Score,13.0
+BIG FLEISHIG'S EXPRESS,2017-02-22,Borough,BROOKLYN
+BIG FLEISHIG'S EXPRESS,2017-02-22,Cuisine,Jewish/Kosher
+BIG FLEISHIG'S EXPRESS,2017-02-22,Description,"Single service item reused, improperly stored, dispensed; not used when required."
+BIG FLEISHIG'S EXPRESS,2017-02-22,Grade,A
+BIG FLEISHIG'S EXPRESS,2017-02-22,Score,12.0
+DELI & GRILL,2017-04-26,Borough,BROOKLYN
+DELI & GRILL,2017-04-26,Cuisine,Delicatessen
+DELI & GRILL,2017-04-26,Description,Plumbing not properly installed or maintained; anti-siphonage or backflow prevention device not provided where required; equipment or floor not properly drained; sewage disposal system in disrepair or not functioning properly.
+DELI & GRILL,2017-04-26,Grade,A
+DELI & GRILL,2017-04-26,Score,10.0
+EMIR PALACE,2017-05-16,Borough,BROOKLYN
+EMIR PALACE,2017-05-16,Cuisine,Middle Eastern
+EMIR PALACE,2017-05-16,Description,"Food contact surface not properly washed, rinsed and sanitized after each use and following any activity when contamination may have occurred."
+EMIR PALACE,2017-05-16,Grade,A
+EMIR PALACE,2017-05-16,Score,9.0
+HUNTER COLLEGE,2017-05-09,Borough,MANHATTAN
+HUNTER COLLEGE,2017-05-09,Cuisine,CafÃ©/Coffee/Tea
+HUNTER COLLEGE,2017-05-09,Description,"Non-food contact surface improperly constructed. Unacceptable material used. Non-food contact surface or equipment improperly maintained and/or not properly sealed, raised, spaced or movable to allow accessibility for cleaning on all sides, above and underneath the unit."
+HUNTER COLLEGE,2017-05-09,Grade,A
+HUNTER COLLEGE,2017-05-09,Score,4.0
+VIP GRILL,2017-06-12,Borough,BROOKLYN
+VIP GRILL,2017-06-12,Cuisine,Jewish/Kosher
+VIP GRILL,2017-06-12,Description,Hot food item not held at or above 140Âº F.
+VIP GRILL,2017-06-12,Grade,A
+VIP GRILL,2017-06-12,Score,10.0
+NEW ASIAN CUISINE,2017-07-24,Borough,QUEENS
+NEW ASIAN CUISINE,2017-07-24,Cuisine,Chinese
+NEW ASIAN CUISINE,2017-07-24,Description,"Non-food contact surface improperly constructed. Unacceptable material used. Non-food contact surface or equipment improperly maintained and/or not properly sealed, raised, spaced or movable to allow accessibility for cleaning on all sides, above and underneath the unit."
+NEW ASIAN CUISINE,2017-07-24,Grade,A
+NEW ASIAN CUISINE,2017-07-24,Score,4.0
+S & R LE JUICE BAR,2017-02-10,Borough,BRONX
+S & R LE JUICE BAR,2017-02-10,Cuisine,"Juice, Smoothies, Fruit Salads"
+S & R LE JUICE BAR,2017-02-10,Description,Plumbing not properly installed or maintained; anti-siphonage or backflow prevention device not provided where required; equipment or floor not properly drained; sewage disposal system in disrepair or not functioning properly.
+S & R LE JUICE BAR,2017-02-10,Grade,A
+S & R LE JUICE BAR,2017-02-10,Score,9.0
+A & L PIZZA RESTAURANT,2017-08-22,Borough,BROOKLYN
+A & L PIZZA RESTAURANT,2017-08-22,Cuisine,Pizza
+A & L PIZZA RESTAURANT,2017-08-22,Description,Facility not vermin proof. Harborage or conditions conducive to attracting vermin to the premises and/or allowing vermin to exist.
+A & L PIZZA RESTAURANT,2017-08-22,Grade,A
+A & L PIZZA RESTAURANT,2017-08-22,Score,9.0
+SHENANIGAN'S,2017-08-16,Borough,QUEENS
+SHENANIGAN'S,2017-08-16,Cuisine,American
+SHENANIGAN'S,2017-08-16,Description,"Raw, cooked or prepared food is adulterated, contaminated, cross-contaminated, or not discarded in accordance with HACCP plan."
+SHENANIGAN'S,2017-08-16,Grade,A
+SHENANIGAN'S,2017-08-16,Score,12.0
+SAJOMA RESTAURANT & PIZZERIA,2017-02-13,Borough,BROOKLYN
+SAJOMA RESTAURANT & PIZZERIA,2017-02-13,Cuisine,"Latin (Cuban, Dominican, Puerto Rican, South & Central American)"
+SAJOMA RESTAURANT & PIZZERIA,2017-02-13,Description,Cold food item held above 41Âº F (smoked fish and reduced oxygen packaged foods above 38 ÂºF) except during necessary preparation.
+SAJOMA RESTAURANT & PIZZERIA,2017-02-13,Grade,B
+SAJOMA RESTAURANT & PIZZERIA,2017-02-13,Score,23.0
+KAWA SUSHI 8 AVENUE,2017-04-12,Borough,MANHATTAN
+KAWA SUSHI 8 AVENUE,2017-04-12,Cuisine,Japanese
+KAWA SUSHI 8 AVENUE,2017-04-12,Description,Food worker does not use proper utensil to eliminate bare hand contact with food that will not receive adequate additional heat treatment.
+KAWA SUSHI 8 AVENUE,2017-04-12,Grade,A
+KAWA SUSHI 8 AVENUE,2017-04-12,Score,12.0
+PUNCH LINE JUICE BAR,2017-08-02,Borough,BROOKLYN
+PUNCH LINE JUICE BAR,2017-08-02,Cuisine,"Juice, Smoothies, Fruit Salads"
+PUNCH LINE JUICE BAR,2017-08-02,Description,"No facilities available to wash, rinse and sanitize utensils and/or equipment."
+PUNCH LINE JUICE BAR,2017-08-02,Grade,Not Yet Graded
+PUNCH LINE JUICE BAR,2017-08-02,Score,31.0
+HILLSIDE DOSA HUTT,2017-08-02,Borough,QUEENS
+HILLSIDE DOSA HUTT,2017-08-02,Cuisine,Vegetarian
+HILLSIDE DOSA HUTT,2017-08-02,Description,"Food not protected from potential source of contamination during storage, preparation, transportation, display or service."
+HILLSIDE DOSA HUTT,2017-08-02,Grade,A
+HILLSIDE DOSA HUTT,2017-08-02,Score,8.0
+THE CELTIC COVE,2017-08-09,Borough,QUEENS
+THE CELTIC COVE,2017-08-09,Cuisine,Other
+THE CELTIC COVE,2017-08-09,Description,"Raw, cooked or prepared food is adulterated, contaminated, cross-contaminated, or not discarded in accordance with HACCP plan."
+THE CELTIC COVE,2017-08-09,Grade,A
+THE CELTIC COVE,2017-08-09,Score,10.0
+MISTER SOFTEE,2017-06-13,Borough,QUEENS
+MISTER SOFTEE,2017-06-13,Cuisine,"Ice Cream, Gelato, Yogurt, Ices"
+MISTER SOFTEE,2017-06-13,Description,Accurate thermometer not provided in refrigerated or hot holding equipment.
+MISTER SOFTEE,2017-06-13,Grade,A
+MISTER SOFTEE,2017-06-13,Score,2.0
+CHARLENA CHATEAU,2017-02-28,Borough,BROOKLYN
+CHARLENA CHATEAU,2017-02-28,Cuisine,Caribbean
+CHARLENA CHATEAU,2017-02-28,Description,Facility not vermin proof. Harborage or conditions conducive to attracting vermin to the premises and/or allowing vermin to exist.
+CHARLENA CHATEAU,2017-02-28,Grade,A
+CHARLENA CHATEAU,2017-02-28,Score,12.0
+FISH MARKET RESTAURANT,2017-06-16,Borough,MANHATTAN
+FISH MARKET RESTAURANT,2017-06-16,Cuisine,Seafood
+FISH MARKET RESTAURANT,2017-06-16,Description,"Non-food contact surface improperly constructed. Unacceptable material used. Non-food contact surface or equipment improperly maintained and/or not properly sealed, raised, spaced or movable to allow accessibility for cleaning on all sides, above and underneath the unit."
+FISH MARKET RESTAURANT,2017-06-16,Grade,B
+FISH MARKET RESTAURANT,2017-06-16,Score,24.0
+HAPPY TOWN CHINESE RESTAURANT,2017-03-15,Borough,QUEENS
+HAPPY TOWN CHINESE RESTAURANT,2017-03-15,Cuisine,Chinese
+HAPPY TOWN CHINESE RESTAURANT,2017-03-15,Description,"Non-food contact surface improperly constructed. Unacceptable material used. Non-food contact surface or equipment improperly maintained and/or not properly sealed, raised, spaced or movable to allow accessibility for cleaning on all sides, above and underneath the unit."
+HAPPY TOWN CHINESE RESTAURANT,2017-03-15,Grade,A
+HAPPY TOWN CHINESE RESTAURANT,2017-03-15,Score,8.0
+MCDONALD AVENUE DINER,2017-06-12,Borough,BROOKLYN
+MCDONALD AVENUE DINER,2017-06-12,Cuisine,American
+MCDONALD AVENUE DINER,2017-06-12,Description,Cold food item held above 41Âº F (smoked fish and reduced oxygen packaged foods above 38 ÂºF) except during necessary preparation.
+MCDONALD AVENUE DINER,2017-06-12,Grade,A
+MCDONALD AVENUE DINER,2017-06-12,Score,7.0
+NEGRIL,2017-03-01,Borough,MANHATTAN
+NEGRIL,2017-03-01,Cuisine,Caribbean
+NEGRIL,2017-03-01,Description,"Filth flies or food/refuse/sewage-associated (FRSA) flies present in facilitys food and/or non-food areas. Filth flies include house flies, little house flies, blow flies, bottle flies and flesh flies. Food/refuse/sewage-associated flies include fruit flies, drain flies and Phorid flies."
+NEGRIL,2017-03-01,Grade,A
+NEGRIL,2017-03-01,Score,12.0
+MAY KAIDEE/DESI FOOD TRUCK,2017-02-23,Borough,MANHATTAN
+MAY KAIDEE/DESI FOOD TRUCK,2017-02-23,Cuisine,Asian
+MAY KAIDEE/DESI FOOD TRUCK,2017-02-23,Description,Facility not vermin proof. Harborage or conditions conducive to attracting vermin to the premises and/or allowing vermin to exist.
+MAY KAIDEE/DESI FOOD TRUCK,2017-02-23,Grade,A
+MAY KAIDEE/DESI FOOD TRUCK,2017-02-23,Score,10.0
+IL POSTINO,2017-02-02,Borough,MANHATTAN
+IL POSTINO,2017-02-02,Cuisine,Italian
+IL POSTINO,2017-02-02,Description,Evidence of mice or live mice present in facility's food and/or non-food areas.
+IL POSTINO,2017-02-02,Grade,A
+IL POSTINO,2017-02-02,Score,12.0
+COZY CORNER BAR & RESTAURANT,2017-05-03,Borough,QUEENS
+COZY CORNER BAR & RESTAURANT,2017-05-03,Cuisine,American
+COZY CORNER BAR & RESTAURANT,2017-05-03,Description,"Food not protected from potential source of contamination during storage, preparation, transportation, display or service."
+COZY CORNER BAR & RESTAURANT,2017-05-03,Grade,A
+COZY CORNER BAR & RESTAURANT,2017-05-03,Score,12.0
+CIBO EXPRESS GOURMET MARKET (VAGABOND),2017-05-24,Borough,QUEENS
+CIBO EXPRESS GOURMET MARKET (VAGABOND),2017-05-24,Cuisine,American
+CIBO EXPRESS GOURMET MARKET (VAGABOND),2017-05-24,Description,"Non-food contact surface improperly constructed. Unacceptable material used. Non-food contact surface or equipment improperly maintained and/or not properly sealed, raised, spaced or movable to allow accessibility for cleaning on all sides, above and underneath the unit."
+CIBO EXPRESS GOURMET MARKET (VAGABOND),2017-05-24,Grade,A
+CIBO EXPRESS GOURMET MARKET (VAGABOND),2017-05-24,Score,6.0
+ON THE ROX LOUNGE & BAR,2017-03-13,Borough,QUEENS
+ON THE ROX LOUNGE & BAR,2017-03-13,Cuisine,American
+ON THE ROX LOUNGE & BAR,2017-03-13,Description,"Food not protected from potential source of contamination during storage, preparation, transportation, display or service."
+ON THE ROX LOUNGE & BAR,2017-03-13,Grade,A
+ON THE ROX LOUNGE & BAR,2017-03-13,Score,10.0
+TOWERS CAFE,2017-08-16,Borough,BROOKLYN
+TOWERS CAFE,2017-08-16,Cuisine,American
+TOWERS CAFE,2017-08-16,Description,"Food contact surface not properly washed, rinsed and sanitized after each use and following any activity when contamination may have occurred."
+TOWERS CAFE,2017-08-16,Grade,A
+TOWERS CAFE,2017-08-16,Score,12.0
+WAHIZZA,2017-04-13,Borough,MANHATTAN
+WAHIZZA,2017-04-13,Cuisine,Pizza
+WAHIZZA,2017-04-13,Description,"No facilities available to wash, rinse and sanitize utensils and/or equipment."
+WAHIZZA,2017-04-13,Grade,A
+WAHIZZA,2017-04-13,Score,10.0
+THE CRAFTSMAN,2017-09-15,Borough,MANHATTAN
+THE CRAFTSMAN,2017-09-15,Cuisine,American
+THE CRAFTSMAN,2017-09-15,Description,Evidence of mice or live mice present in facility's food and/or non-food areas.
+THE CRAFTSMAN,2017-09-15,Grade,Not Yet Graded
+THE CRAFTSMAN,2017-09-15,Score,32.0
+CAFFEBENE,2017-08-07,Borough,MANHATTAN
+CAFFEBENE,2017-08-07,Cuisine,CafÃ©/Coffee/Tea
+CAFFEBENE,2017-08-07,Description,"Food contact surface not properly washed, rinsed and sanitized after each use and following any activity when contamination may have occurred."
+CAFFEBENE,2017-08-07,Grade,A
+CAFFEBENE,2017-08-07,Score,5.0
+SOUTH SLOPE EATERY & JUICEBAR,2017-07-12,Borough,BROOKLYN
+SOUTH SLOPE EATERY & JUICEBAR,2017-07-12,Cuisine,American
+SOUTH SLOPE EATERY & JUICEBAR,2017-07-12,Description,Wiping cloths soiled or not stored in sanitizing solution.
+SOUTH SLOPE EATERY & JUICEBAR,2017-07-12,Grade,A
+SOUTH SLOPE EATERY & JUICEBAR,2017-07-12,Score,13.0
+ROOM CAFE,2017-08-01,Borough,QUEENS
+ROOM CAFE,2017-08-01,Cuisine,Korean
+ROOM CAFE,2017-08-01,Description,"Appropriately scaled metal stem-type thermometer or thermocouple not provided or used to evaluate temperatures of potentially hazardous foods during cooking, cooling, reheating and holding."
+ROOM CAFE,2017-08-01,Grade,A
+ROOM CAFE,2017-08-01,Score,10.0
+MAMA  MECHO,2017-06-27,Borough,BROOKLYN
+MAMA  MECHO,2017-06-27,Cuisine,Spanish
+MAMA  MECHO,2017-06-27,Description,"Non-food contact surface improperly constructed. Unacceptable material used. Non-food contact surface or equipment improperly maintained and/or not properly sealed, raised, spaced or movable to allow accessibility for cleaning on all sides, above and underneath the unit."
+MAMA  MECHO,2017-06-27,Grade,P
+MAMA  MECHO,2017-06-27,Score,2.0
+NISI,2017-02-07,Borough,MANHATTAN
+NISI,2017-02-07,Cuisine,Seafood
+NISI,2017-02-07,Description,Wiping cloths soiled or not stored in sanitizing solution.
+NISI,2017-02-07,Grade,A
+NISI,2017-02-07,Score,11.0
+LUCKY EASTERN,2017-05-17,Borough,QUEENS
+LUCKY EASTERN,2017-05-17,Cuisine,Chinese
+LUCKY EASTERN,2017-05-17,Description,Evidence of mice or live mice present in facility's food and/or non-food areas.
+LUCKY EASTERN,2017-05-17,Grade,A
+LUCKY EASTERN,2017-05-17,Score,10.0
+BANGKOK CUISINE,2017-07-19,Borough,MANHATTAN
+BANGKOK CUISINE,2017-07-19,Cuisine,Thai
+BANGKOK CUISINE,2017-07-19,Description,"Non-food contact surface improperly constructed. Unacceptable material used. Non-food contact surface or equipment improperly maintained and/or not properly sealed, raised, spaced or movable to allow accessibility for cleaning on all sides, above and underneath the unit."
+BANGKOK CUISINE,2017-07-19,Grade,A
+BANGKOK CUISINE,2017-07-19,Score,13.0
+TAQUERIA JIMMY EXPRESS,2017-03-09,Borough,BROOKLYN
+TAQUERIA JIMMY EXPRESS,2017-03-09,Cuisine,Mexican
+TAQUERIA JIMMY EXPRESS,2017-03-09,Description,"Non-food contact surface improperly constructed. Unacceptable material used. Non-food contact surface or equipment improperly maintained and/or not properly sealed, raised, spaced or movable to allow accessibility for cleaning on all sides, above and underneath the unit."
+TAQUERIA JIMMY EXPRESS,2017-03-09,Grade,A
+TAQUERIA JIMMY EXPRESS,2017-03-09,Score,13.0
+CALL IT A WRAP,2017-08-24,Borough,STATEN ISLAND
+CALL IT A WRAP,2017-08-24,Cuisine,American
+CALL IT A WRAP,2017-08-24,Description,Cold food item held above 41Âº F (smoked fish and reduced oxygen packaged foods above 38 ÂºF) except during necessary preparation.
+CALL IT A WRAP,2017-08-24,Grade,A
+CALL IT A WRAP,2017-08-24,Score,8.0
+BEIT JEDDO,2017-03-23,Borough,BROOKLYN
+BEIT JEDDO,2017-03-23,Cuisine,Middle Eastern
+BEIT JEDDO,2017-03-23,Description,Thawing procedures improper.
+BEIT JEDDO,2017-03-23,Grade,A
+BEIT JEDDO,2017-03-23,Score,13.0
+SABI SUSHI,2017-06-19,Borough,MANHATTAN
+SABI SUSHI,2017-06-19,Cuisine,Japanese
+SABI SUSHI,2017-06-19,Description,"Food not cooled by an approved method whereby the internal product temperature is reduced from 140Âº F to 70Âº F or less within 2 hours, and from 70Âº F to 41Âº F or less within 4 additional hours."
+SABI SUSHI,2017-06-19,Grade,B
+SABI SUSHI,2017-06-19,Score,14.0
+TEXAS FRIED CHICKEN AND PIZZA,2017-03-23,Borough,BROOKLYN
+TEXAS FRIED CHICKEN AND PIZZA,2017-03-23,Cuisine,American
+TEXAS FRIED CHICKEN AND PIZZA,2017-03-23,Description,Cold food item held above 41Âº F (smoked fish and reduced oxygen packaged foods above 38 ÂºF) except during necessary preparation.
+TEXAS FRIED CHICKEN AND PIZZA,2017-03-23,Grade,A
+TEXAS FRIED CHICKEN AND PIZZA,2017-03-23,Score,12.0
+PRIMA PASTA & CAFE,2017-01-24,Borough,QUEENS
+PRIMA PASTA & CAFE,2017-01-24,Cuisine,Italian
+PRIMA PASTA & CAFE,2017-01-24,Description,"Food contact surface not properly washed, rinsed and sanitized after each use and following any activity when contamination may have occurred."
+PRIMA PASTA & CAFE,2017-01-24,Grade,A
+PRIMA PASTA & CAFE,2017-01-24,Score,12.0
+PATACON PISAO,2017-03-07,Borough,QUEENS
+PATACON PISAO,2017-03-07,Cuisine,Spanish
+PATACON PISAO,2017-03-07,Description,"Single service item reused, improperly stored, dispensed; not used when required."
+PATACON PISAO,2017-03-07,Grade,A
+PATACON PISAO,2017-03-07,Score,7.0
+LUNA PIZZERIA,2017-05-11,Borough,BROOKLYN
+LUNA PIZZERIA,2017-05-11,Cuisine,Pizza
+LUNA PIZZERIA,2017-05-11,Description,Hot food item not held at or above 140Âº F.
+LUNA PIZZERIA,2017-05-11,Grade,A
+LUNA PIZZERIA,2017-05-11,Score,13.0
+SCALETTA RISTORANTE,2017-02-01,Borough,MANHATTAN
+SCALETTA RISTORANTE,2017-02-01,Cuisine,Italian
+SCALETTA RISTORANTE,2017-02-01,Description,Facility not vermin proof. Harborage or conditions conducive to attracting vermin to the premises and/or allowing vermin to exist.
+SCALETTA RISTORANTE,2017-02-01,Grade,A
+SCALETTA RISTORANTE,2017-02-01,Score,10.0
+ITAVOLO,2017-04-28,Borough,MANHATTAN
+ITAVOLO,2017-04-28,Cuisine,American
+ITAVOLO,2017-04-28,Description,Wiping cloths soiled or not stored in sanitizing solution.
+ITAVOLO,2017-04-28,Grade,A
+ITAVOLO,2017-04-28,Score,12.0
+AKSARAY TURKISH CAFE AND RESTAURANT,2017-07-25,Borough,BROOKLYN
+AKSARAY TURKISH CAFE AND RESTAURANT,2017-07-25,Cuisine,Turkish
+AKSARAY TURKISH CAFE AND RESTAURANT,2017-07-25,Description,Plumbing not properly installed or maintained; anti-siphonage or backflow prevention device not provided where required; equipment or floor not properly drained; sewage disposal system in disrepair or not functioning properly.
+AKSARAY TURKISH CAFE AND RESTAURANT,2017-07-25,Grade,A
+AKSARAY TURKISH CAFE AND RESTAURANT,2017-07-25,Score,13.0
+SUSHI YASAKA,2017-07-27,Borough,MANHATTAN
+SUSHI YASAKA,2017-07-27,Cuisine,Japanese
+SUSHI YASAKA,2017-07-27,Description,Hot food item not held at or above 140Âº F.
+SUSHI YASAKA,2017-07-27,Grade,A
+SUSHI YASAKA,2017-07-27,Score,12.0
+QUE SABOR BAKERY CAFE,2017-04-06,Borough,QUEENS
+QUE SABOR BAKERY CAFE,2017-04-06,Cuisine,"Latin (Cuban, Dominican, Puerto Rican, South & Central American)"
+QUE SABOR BAKERY CAFE,2017-04-06,Description,"Non-food contact surface improperly constructed. Unacceptable material used. Non-food contact surface or equipment improperly maintained and/or not properly sealed, raised, spaced or movable to allow accessibility for cleaning on all sides, above and underneath the unit."
+QUE SABOR BAKERY CAFE,2017-04-06,Grade,A
+QUE SABOR BAKERY CAFE,2017-04-06,Score,9.0
+SUNBURST ESPRESSO BAR,2017-03-24,Borough,MANHATTAN
+SUNBURST ESPRESSO BAR,2017-03-24,Cuisine,American
+SUNBURST ESPRESSO BAR,2017-03-24,Description,Cold food item held above 41Âº F (smoked fish and reduced oxygen packaged foods above 38 ÂºF) except during necessary preparation.
+SUNBURST ESPRESSO BAR,2017-03-24,Grade,A
+SUNBURST ESPRESSO BAR,2017-03-24,Score,7.0
+EMILIO SUPER BAKERY,2017-04-18,Borough,BRONX
+EMILIO SUPER BAKERY,2017-04-18,Cuisine,Bakery
+EMILIO SUPER BAKERY,2017-04-18,Description,Plumbing not properly installed or maintained; anti-siphonage or backflow prevention device not provided where required; equipment or floor not properly drained; sewage disposal system in disrepair or not functioning properly.
+EMILIO SUPER BAKERY,2017-04-18,Grade,A
+EMILIO SUPER BAKERY,2017-04-18,Score,5.0
+SUSHI Q JAPANESE RESTAURANT,2017-08-08,Borough,BRONX
+SUSHI Q JAPANESE RESTAURANT,2017-08-08,Cuisine,Japanese
+SUSHI Q JAPANESE RESTAURANT,2017-08-08,Description,Hot food item not held at or above 140Âº F.
+SUSHI Q JAPANESE RESTAURANT,2017-08-08,Grade,A
+SUSHI Q JAPANESE RESTAURANT,2017-08-08,Score,7.0
+KIABACCA PIZZA AND BEER,2017-04-18,Borough,MANHATTAN
+KIABACCA PIZZA AND BEER,2017-04-18,Cuisine,American
+KIABACCA PIZZA AND BEER,2017-04-18,Description,"Non-food contact surface improperly constructed. Unacceptable material used. Non-food contact surface or equipment improperly maintained and/or not properly sealed, raised, spaced or movable to allow accessibility for cleaning on all sides, above and underneath the unit."
+KIABACCA PIZZA AND BEER,2017-04-18,Grade,A
+KIABACCA PIZZA AND BEER,2017-04-18,Score,9.0
+JS PERRY'S DINER,2017-08-04,Borough,BRONX
+JS PERRY'S DINER,2017-08-04,Cuisine,American
+JS PERRY'S DINER,2017-08-04,Description,"Non-food contact surface improperly constructed. Unacceptable material used. Non-food contact surface or equipment improperly maintained and/or not properly sealed, raised, spaced or movable to allow accessibility for cleaning on all sides, above and underneath the unit."
+JS PERRY'S DINER,2017-08-04,Grade,A
+JS PERRY'S DINER,2017-08-04,Score,7.0
+3 STAR JUICE CENTER,2017-05-10,Borough,BROOKLYN
+3 STAR JUICE CENTER,2017-05-10,Cuisine,"Juice, Smoothies, Fruit Salads"
+3 STAR JUICE CENTER,2017-05-10,Description,Facility not vermin proof. Harborage or conditions conducive to attracting vermin to the premises and/or allowing vermin to exist.
+3 STAR JUICE CENTER,2017-05-10,Grade,A
+3 STAR JUICE CENTER,2017-05-10,Score,12.0
+LENZ'S,2017-05-09,Borough,MANHATTAN
+LENZ'S,2017-05-09,Cuisine,American
+LENZ'S,2017-05-09,Description,Pesticide use not in accordance with label or applicable laws. Prohibited chemical used/stored. Open bait station used.
+LENZ'S,2017-05-09,Grade,A
+LENZ'S,2017-05-09,Score,12.0
+WANG MANDOO HOUSE,2017-08-29,Borough,QUEENS
+WANG MANDOO HOUSE,2017-08-29,Cuisine,Korean
+WANG MANDOO HOUSE,2017-08-29,Description,Accurate thermometer not provided in refrigerated or hot holding equipment.
+WANG MANDOO HOUSE,2017-08-29,Grade,A
+WANG MANDOO HOUSE,2017-08-29,Score,12.0
+CAFE 58,2017-04-11,Borough,BROOKLYN
+CAFE 58,2017-04-11,Cuisine,American
+CAFE 58,2017-04-11,Description,Facility not vermin proof. Harborage or conditions conducive to attracting vermin to the premises and/or allowing vermin to exist.
+CAFE 58,2017-04-11,Grade,A
+CAFE 58,2017-04-11,Score,11.0
+XIAOYAN YABO INC,2017-08-29,Borough,QUEENS
+XIAOYAN YABO INC,2017-08-29,Cuisine,Korean
+XIAOYAN YABO INC,2017-08-29,Description,Evidence of mice or live mice present in facility's food and/or non-food areas.
+XIAOYAN YABO INC,2017-08-29,Grade,Z
+XIAOYAN YABO INC,2017-08-29,Score,49.0
+SOOKK THAI RESTAURANT,2017-02-23,Borough,MANHATTAN
+SOOKK THAI RESTAURANT,2017-02-23,Cuisine,Thai
+SOOKK THAI RESTAURANT,2017-02-23,Description,Facility not vermin proof. Harborage or conditions conducive to attracting vermin to the premises and/or allowing vermin to exist.
+SOOKK THAI RESTAURANT,2017-02-23,Grade,C
+SOOKK THAI RESTAURANT,2017-02-23,Score,32.0
+TAK KING CHINESE RESTAURANT,2017-04-19,Borough,BROOKLYN
+TAK KING CHINESE RESTAURANT,2017-04-19,Cuisine,Chinese
+TAK KING CHINESE RESTAURANT,2017-04-19,Description,Food not cooked to required minimum temperature.
+TAK KING CHINESE RESTAURANT,2017-04-19,Grade,B
+TAK KING CHINESE RESTAURANT,2017-04-19,Score,16.0
+OFFICE COFFEE,2017-01-24,Borough,MANHATTAN
+OFFICE COFFEE,2017-01-24,Cuisine,CafÃ©/Coffee/Tea
+OFFICE COFFEE,2017-01-24,Description,Food Protection Certificate not held by supervisor of food operations.
+OFFICE COFFEE,2017-01-24,Grade,A
+OFFICE COFFEE,2017-01-24,Score,10.0
+D-LITE DONUTS,2017-06-30,Borough,QUEENS
+D-LITE DONUTS,2017-06-30,Cuisine,American
+D-LITE DONUTS,2017-06-30,Description,"Food contact surface not properly washed, rinsed and sanitized after each use and following any activity when contamination may have occurred."
+D-LITE DONUTS,2017-06-30,Grade,A
+D-LITE DONUTS,2017-06-30,Score,5.0
+PANDA,2017-08-17,Borough,QUEENS
+PANDA,2017-08-17,Cuisine,Chinese
+PANDA,2017-08-17,Description,"Non-food contact surface improperly constructed. Unacceptable material used. Non-food contact surface or equipment improperly maintained and/or not properly sealed, raised, spaced or movable to allow accessibility for cleaning on all sides, above and underneath the unit."
+PANDA,2017-08-17,Grade,A
+PANDA,2017-08-17,Score,10.0
+JOHN'S DONUT & COFFEE SHOP,2017-02-16,Borough,BROOKLYN
+JOHN'S DONUT & COFFEE SHOP,2017-02-16,Cuisine,American
+JOHN'S DONUT & COFFEE SHOP,2017-02-16,Description,Hot food item not held at or above 140Âº F.
+JOHN'S DONUT & COFFEE SHOP,2017-02-16,Grade,A
+JOHN'S DONUT & COFFEE SHOP,2017-02-16,Score,12.0
+TOWNE DELI & PIZZA,2017-04-11,Borough,STATEN ISLAND
+TOWNE DELI & PIZZA,2017-04-11,Cuisine,Pizza
+TOWNE DELI & PIZZA,2017-04-11,Description,Hot food item not held at or above 140Âº F.
+TOWNE DELI & PIZZA,2017-04-11,Grade,B
+TOWNE DELI & PIZZA,2017-04-11,Score,16.0
+LITTLE LAMB,2017-08-22,Borough,QUEENS
+LITTLE LAMB,2017-08-22,Cuisine,Asian
+LITTLE LAMB,2017-08-22,Description,"Food contact surface not properly washed, rinsed and sanitized after each use and following any activity when contamination may have occurred."
+LITTLE LAMB,2017-08-22,Grade,A
+LITTLE LAMB,2017-08-22,Score,12.0
+METRO DINER,2017-07-19,Borough,MANHATTAN
+METRO DINER,2017-07-19,Cuisine,American
+METRO DINER,2017-07-19,Description,Personal cleanliness inadequate. Outer garment soiled with possible contaminant.  Effective hair restraint not worn in an area where food is prepared.
+METRO DINER,2017-07-19,Grade,A
+METRO DINER,2017-07-19,Score,12.0
+FIRST STOP BAR & GRILL,2017-05-11,Borough,QUEENS
+FIRST STOP BAR & GRILL,2017-05-11,Cuisine,American
+FIRST STOP BAR & GRILL,2017-05-11,Description,Proper sanitization not provided for utensil ware washing operation.
+FIRST STOP BAR & GRILL,2017-05-11,Grade,Not Yet Graded
+FIRST STOP BAR & GRILL,2017-05-11,Score,12.0
+"CADWALADER, WICKERSHAM & TAFT",2017-06-07,Borough,MANHATTAN
+"CADWALADER, WICKERSHAM & TAFT",2017-06-07,Cuisine,American
+"CADWALADER, WICKERSHAM & TAFT",2017-06-07,Description,"Sanitized equipment or utensil, including in-use food dispensing utensil, improperly used or stored."
+"CADWALADER, WICKERSHAM & TAFT",2017-06-07,Grade,A
+"CADWALADER, WICKERSHAM & TAFT",2017-06-07,Score,11.0
+ROSA MEXICANO TRIBECA,2017-06-19,Borough,MANHATTAN
+ROSA MEXICANO TRIBECA,2017-06-19,Cuisine,Mexican
+ROSA MEXICANO TRIBECA,2017-06-19,Description,"Non-food contact surface improperly constructed. Unacceptable material used. Non-food contact surface or equipment improperly maintained and/or not properly sealed, raised, spaced or movable to allow accessibility for cleaning on all sides, above and underneath the unit."
+ROSA MEXICANO TRIBECA,2017-06-19,Grade,A
+ROSA MEXICANO TRIBECA,2017-06-19,Score,5.0
+LA SIRENA,2017-08-28,Borough,MANHATTAN
+LA SIRENA,2017-08-28,Cuisine,Italian
+LA SIRENA,2017-08-28,Description,"Filth flies or food/refuse/sewage-associated (FRSA) flies present in facilitys food and/or non-food areas. Filth flies include house flies, little house flies, blow flies, bottle flies and flesh flies. Food/refuse/sewage-associated flies include fruit flies, drain flies and Phorid flies."
+LA SIRENA,2017-08-28,Grade,A
+LA SIRENA,2017-08-28,Score,10.0
+SWEDISH FOOTBALL CLUB,2017-01-13,Borough,BROOKLYN
+SWEDISH FOOTBALL CLUB,2017-01-13,Cuisine,American
+SWEDISH FOOTBALL CLUB,2017-01-13,Description,"Food contact surface not properly washed, rinsed and sanitized after each use and following any activity when contamination may have occurred."
+SWEDISH FOOTBALL CLUB,2017-01-13,Grade,A
+SWEDISH FOOTBALL CLUB,2017-01-13,Score,5.0
+CIPRIANI DOLCI,2017-01-17,Borough,MANHATTAN
+CIPRIANI DOLCI,2017-01-17,Cuisine,Italian
+CIPRIANI DOLCI,2017-01-17,Description,Plumbing not properly installed or maintained; anti-siphonage or backflow prevention device not provided where required; equipment or floor not properly drained; sewage disposal system in disrepair or not functioning properly.
+CIPRIANI DOLCI,2017-01-17,Grade,B
+CIPRIANI DOLCI,2017-01-17,Score,22.0
+OLLIES TO GO,2017-01-31,Borough,MANHATTAN
+OLLIES TO GO,2017-01-31,Cuisine,Chinese/Japanese
+OLLIES TO GO,2017-01-31,Description,"Non-food contact surface improperly constructed. Unacceptable material used. Non-food contact surface or equipment improperly maintained and/or not properly sealed, raised, spaced or movable to allow accessibility for cleaning on all sides, above and underneath the unit."
+OLLIES TO GO,2017-01-31,Grade,A
+OLLIES TO GO,2017-01-31,Score,10.0
+SOLAS,2017-02-28,Borough,MANHATTAN
+SOLAS,2017-02-28,Cuisine,American
+SOLAS,2017-02-28,Description,"Food contact surface not properly washed, rinsed and sanitized after each use and following any activity when contamination may have occurred."
+SOLAS,2017-02-28,Grade,A
+SOLAS,2017-02-28,Score,5.0
+PIER SIXTY ONE-THE LIGHTHOUSE,2017-09-01,Borough,MANHATTAN
+PIER SIXTY ONE-THE LIGHTHOUSE,2017-09-01,Cuisine,American
+PIER SIXTY ONE-THE LIGHTHOUSE,2017-09-01,Description,"Filth flies or food/refuse/sewage-associated (FRSA) flies present in facilitys food and/or non-food areas. Filth flies include house flies, little house flies, blow flies, bottle flies and flesh flies. Food/refuse/sewage-associated flies include fruit flies, drain flies and Phorid flies."
+PIER SIXTY ONE-THE LIGHTHOUSE,2017-09-01,Grade,Z
+PIER SIXTY ONE-THE LIGHTHOUSE,2017-09-01,Score,33.0
