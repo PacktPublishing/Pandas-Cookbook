@@ -1,0 +1,6 @@
+Column Name,Data Type,Column Description,Missing Values,Mean,Most Common Value,Number of Unique Values
+join_date,object,Date Joined,0,,2016-07-10 16:33:53,7631
+group,object,Group Name,0,,houston data science,5
+city,object,City,0,,Houston,316
+state,object,State,144,,TX,46
+country,object,Country,0,,us,43

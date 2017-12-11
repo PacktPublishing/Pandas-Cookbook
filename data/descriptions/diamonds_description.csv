@@ -1,0 +1,11 @@
+Column Name,Data Type,Column Description,Missing Values,Mean,Most Common Value,Number of Unique Values
+carat,float64,Size of diamond in carats,0,0.8,,273
+cut,object,"Quality of the cut (Fair, Good, Very Good, Premium, Ideal)",0,,Ideal,5
+color,object,Color ranging from worst to best - J through D,0,,G,7
+clarity,object,"Measurement of imperfections ranging from worst to best - I1, SI2, SI1, VS2, VS1, VVS2, VVS1, IF",0,,SI1,8
+depth,float64,"Total depth percentage = z / mean(x, y) = 2 * z / (x + y)",0,61.75,,184
+table,float64,Qidth of top of diamond relative to widest point ,0,57.46,,127
+price,int64,Price,0,3932.8,,11602
+x,float64,Length in mm,0,5.73,,554
+y,float64,Width in mm,0,5.73,,552
+z,float64,Depth in mm,0,3.54,,375

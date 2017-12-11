@@ -1,0 +1,29 @@
+Column Name,Data Type,Column Description,Missing Values,Mean,Most Common Value,Number of Unique Values
+color,object,Color or Black and White,19,,Color,2
+director_name,object,Director Name,102,,Steven Spielberg,2397
+num_critic_for_reviews,float64,Number of critical reviews,49,137.99,,528
+duration,float64,Length in minutes,15,107.09,,191
+director_facebook_likes,float64,Number of Facebook likes,102,691.01,,435
+actor_3_facebook_likes,float64,Number of Facebook likes,23,631.28,,906
+actor_2_name,object,Second most prominent actor name,13,,Morgan Freeman,3030
+actor_1_facebook_likes,float64,Number of Facebook likes,7,6494.49,,877
+gross,float64,Total amount of revenue earned,862,47644514.53,,4033
+genres,object,Pipe separated list of all genres in movie,0,,Drama,914
+actor_1_name,object,Most prominent actor name,7,,Robert De Niro,2095
+movie_title,object,Movie title,0,,Die Hard with a Vengeance,4916
+num_voted_users,int64,Number of users that scored movie,0,82644.92,,4750
+cast_total_facebook_likes,int64,All actor,0,9579.82,,3960
+actor_3_name,object,Third most prominent actor name,23,,Steve Coogan,3519
+facenumber_in_poster,float64,Number of faces in movie poster,13,1.38,,19
+plot_keywords,object,Pipe separated list of plot keywords,152,,based on novel,4756
+movie_imdb_link,object,URL of IMDB,0,,http://www.imdb.com/title/tt0117333/?ref_=fn_tt_tt_1,4916
+num_user_for_reviews,float64,Number of user reviews,21,267.67,,954
+language,object,Language,12,,English,47
+country,object,Country,5,,USA,65
+content_rating,object,G/PG/PG-13/R,300,,R,18
+budget,float64,Budget in country currency,484,36547486.03,,438
+title_year,float64,Year movie was made 1916-2015,106,2002.45,,91
+actor_2_facebook_likes,float64,Number of Facebook likes,13,1621.92,,917
+imdb_score,float64,Score from users,0,6.44,,78
+aspect_ratio,float64,Proportion of width to height,326,2.22,,22
+movie_facebook_likes,int64,Number of Facebook likes for movie,0,7348.29,,876

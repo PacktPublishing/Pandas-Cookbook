@@ -1,0 +1,11 @@
+Column Name,Data Type,Column Description,Missing Values,Mean,Most Common Value,Number of Unique Values
+UNIQUE_ID,int64,Uniquely identifies each employeee,0,999.5,,2000
+POSITION_TITLE,object,Specific Position,0,,SENIOR POLICE OFFICER,330
+DEPARTMENT,object,Department,0,,Houston Police Department-HPD,24
+BASE_SALARY,float64,Base salary,114,55767.93,,791
+RACE,object,Race,35,,Black or African American,6
+EMPLOYMENT_TYPE,object,"Full Time/Part time/Temporary, etc...",0,,Full Time,5
+GENDER,object,Male/Female,0,,Male,2
+EMPLOYMENT_STATUS,object,Active or Inactive,0,,Active,2
+HIRE_DATE,object,Date Hired,0,,2016-03-28,999
+JOB_DATE,object,Date began latest position,3,,2002-01-05,947

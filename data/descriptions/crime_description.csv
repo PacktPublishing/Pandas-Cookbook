@@ -1,0 +1,9 @@
+Column Name,Data Type,Column Description,Missing Values,Mean,Number of Unique Values
+OFFENSE_TYPE_ID,category,Offenes Type,0,,196
+OFFENSE_CATEGORY_ID,category,Offense Category Name,0,,15
+REPORTED_DATE,datetime64[ns],Reported Date,0,,390969
+GEO_LON,float64,Longitude,3615,-104.95,89196
+GEO_LAT,float64,Latitude,3615,39.73,89012
+NEIGHBORHOOD_ID,category,Neighborhood Name,0,,78
+IS_CRIME,int64,Is it a crime? (0/1),0,0.73,2
+IS_TRAFFIC,int64,Is it a traffic accident (0/1),0,0.27,2

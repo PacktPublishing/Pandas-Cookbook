@@ -1,0 +1,28 @@
+Column Name,Data Type,Column Description,Missing Values,Mean,Most Common Value,Number of Unique Values
+INSTNM,object,Institution Name,0,,Connecticut Center for Massage Therapy-Westport,7535
+CITY,object,City Location,0,,New York,2514
+STABBR,object,State Abbreviation,0,,CA,59
+HBCU,float64,Historically Black College or University,371,0.01,,2
+MENONLY,float64,0/1 Men Only,371,0.01,,2
+WOMENONLY,float64,0/1 Women only,371,0.01,,2
+RELAFFIL,int64,0/1 Religious Affiliation,0,0.19,,2
+SATVRMID,float64,SAT Verbal Median,6350,522.82,,163
+SATMTMID,float64,SAT Math Median,6339,530.77,,167
+DISTANCEONLY,float64,Distance Education Only,371,0.01,,2
+UGDS,float64,Undergraduate Enrollment,661,2356.84,,2932
+UGDS_WHITE,float64,Percent Undergrad White,661,0.51,,4397
+UGDS_BLACK,float64,Percent Undergrad Black,661,0.19,,3242
+UGDS_HISP,float64,Percent Undergrad Hispanic,661,0.16,,2809
+UGDS_ASIAN,float64,Percent Undergrad Asian,661,0.03,,1254
+UGDS_AIAN,float64,Percent Undergrad American Indian/Alaskan Native,661,0.01,,601
+UGDS_NHPI,float64,Percent Undergrad Native Hawaiian/Pacific Islander,661,0.0,,363
+UGDS_2MOR,float64,Percent Undergrad 2 or more races,661,0.02,,957
+UGDS_NRA,float64,Percent Undergrad non-resident aliens,661,0.02,,920
+UGDS_UNKN,float64,Percent Undergrad race unknown,661,0.05,,1517
+PPTUG_EF,float64,Percent Students part-time,682,0.23,,3420
+CURROPER,int64,0/1 Currently Operating,0,0.92,,2
+PCTPELL,float64,Percent Students with Pell grant,686,0.53,,4422
+PCTFLOAN,float64,Percent Students with federal loan,686,0.52,,4155
+UG25ABV,float64,Percent Students Older than 25,817,0.41,,4285
+MD_EARN_WNE_P10,object,Median Earnings 10 years after enrollment,1122,,PrivacySuppressed,598
+GRAD_DEBT_MDN_SUPP,object,Median debt of completers,32,,PrivacySuppressed,2038

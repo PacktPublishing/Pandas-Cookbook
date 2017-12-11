@@ -1,0 +1,15 @@
+Column Name,Data Type,Column Description,Missing Values,Mean,Most Common Value,Number of Unique Values
+MONTH,int64,Month (1-12),0,6.22,,11
+DAY,int64,Day of the month,0,15.7,,31
+WEEKDAY,int64,Weekday 1 (Monday) - 7 (Sunday),0,3.93,,7
+AIRLINE,object,One of 14 major air carriers,0,,DL,14
+ORG_AIR,object,Origin aiport code,0,,ATL,10
+DEST_AIR,object,Destination airport code,0,,LAX,271
+SCHED_DEP,int64,Scheduled department time,0,1387.98,,1162
+DEP_DELAY,float64,Minutes delayed past scheduled departure time,833,10.92,,389
+AIR_TIME,float64,Minutes in air,1018,115.93,,453
+DIST,int64,Flight distance in miles,0,872.9,,850
+SCHED_ARR,int64,Scheduled arrival time,0,1549.4,,1295
+ARR_DELAY,float64,Minutes delayed past scheduled arrival time,1018,5.81,,420
+DIVERTED,int64,Is the flight diverted (0/1),0,0.0,,2
+CANCELLED,int64,Is the flight cancelled? (0/1),0,0.02,,2
