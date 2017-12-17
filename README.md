@@ -36,6 +36,4 @@ It is possible to install all the necessary libraries for this book without the 
 
 * [Windows Presentation Foundation Cookbook](https://www.packtpub.com/application-development/windows-presentation-foundation-cookbook?utm_source=github&utm_medium=repository&utm_campaign=9781788399807)
 
-### Suggestions and Feedback
-[Click here](https://docs.google.com/forms/d/e/1FAIpQLSe5qwunkGf6PUvzPirPDtuy1Du5Rlzew23UBp2S-P3wB-GcwQ/viewform) if you have any feedback or suggestions.
 
